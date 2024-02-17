@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (5.6.0)
+  - StepSlider (1.8.0)
+
+DEPENDENCIES:
+  - SnapKit
+  - StepSlider (~> 1.8.0)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - StepSlider
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  StepSlider: 890db727e779fa99cb32afffc5887c1109e151f4
+
+PODFILE CHECKSUM: 244f5149deb0f9ccf3e6bc0b4707c34fcb3a5a86
+
+COCOAPODS: 1.11.3
